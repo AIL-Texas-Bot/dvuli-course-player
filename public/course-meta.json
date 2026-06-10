@@ -1,0 +1,114 @@
+{
+  "kind":"course",
+  "schemaVersion":1,
+  "meta":{
+    "title":"From Calling to Breakthrough: A Leader's Journey Through the DeVos Urban Leadership Initiative",
+    "subtitle":"training-workshop",
+    "audience":"advanced-undergrad",
+    "generatedAt":"2026-06-08T13:21:12.631Z",
+    "generatedBy":"solomons-forge",
+    "generatorVersion":"1.2.0-bundle",
+    "theme":{
+      "id":"learning-lab"
+    }
+  },
+  "overview":"This training workshop is built on a single, animating conviction drawn directly from the DeVos Urban Leadership Initiative (DVULI): healthy leaders produce healthy organizations, and healthy organizations build healthy communities. Over sixteen sessions, participants move through an intentional arc \u2014 from the inside out \u2014 beginning with ruthlessly honest self-discovery, progressing through five foundational Core Values, and culminating in a written, presented, and accountability-backed Breakthrough Plan. Every concept introduced in the early sessions reappears in later ones at greater depth and complexity, so that by Session 16 participants are not merely recalling what they learned in Session 1 \u2014 they are living it differently.\n\nThe pedagogical philosophy of this workshop is grounded in the DVULI conviction that 'the most important outcome of your time in the program will be that you will learn to think differently \u2014 about yourself, your ministry, and your personal life.' This is not a content-delivery workshop; it is a transformation architecture. Sessions 1\u20134 excavate the participant's divine design through the Biblical DISC, the Leadership Strategy Assessment, the three-fold purpose framework, and the Leadership Tree synthesis. Sessions 5\u20138 introduce the five Core Values \u2014 Accountability, Balance, Interdependence, Empowerment, and Leverage \u2014 as non-negotiable pillars of sustainable ministry. Sessions 9\u201311 zoom outward to community, equipping participants with asset-based and youth development frameworks. Sessions 12\u201316 provide the strategic and systems-level tools \u2014 Scenario Planning, Systems Thinking, the Outward Mindset, Resource Networking, and Collaborative Leadership \u2014 that enable participants to convert their personal insights into a Breakthrough Plan that is strategic, significant, and sustainable.\n\nWhat makes this workshop distinctive is its relentless integration. The Personal Assessment Model (Calling + Character + Commitment to Change) introduced in Session 1 threads through every subsequent session. The reflective journaling loop, activated in Session 4, becomes the primary learning artifact that participants bring to their Breakthrough presentations in Session 16. The five Core Values are not taught in isolation \u2014 they appear woven into community development exercises, systems thinking scenarios, and resource networking case studies. Facilitators should understand that their role is less instructor than companion on a learning journey: creating conditions for honest introspection, courageous community, and the kind of holy discomfort that produces genuine breakthrough.",
+  "sections":[
+    {
+      "id":"ch1",
+      "title":"Who Am I? The Biblical Case for Ruthless Self-Knowledge",
+      "summary":"Knowing a framework and applying it to your own life are two different things. This program treats that gap as a design problem, not a motivation problem. Across the sessions that follow, learners will use structured tools \u2014 behavioral diag",
+      "blockCount":13
+    },
+    {
+      "id":"ch2",
+      "title":"Reading Your Behavioral Blueprint: The Biblical DISC",
+      "summary":"Every person leads from a particular behavioral style \u2014 a consistent pattern of how they engage tasks, influence others, respond to conflict, and communicate under pressure. This session introduces the Biblical DISC Assessment, a powerful f",
+      "blockCount":12
+    },
+    {
+      "id":"ch3",
+      "title":"The Art of the Right Fit: Leadership Strategy and the Development Step",
+      "summary":"If DISC tells you how you naturally lead, the Leadership Strategy Assessment tells you how effectively you are matching your leadership to what each person you lead actually needs in a specific task. This session introduces the LSA framewor",
+      "blockCount":12
+    },
+    {
+      "id":"ch4",
+      "title":"The Leadership Tree: Roots, Trunk, Branches, and the Harvest of Your Design",
+      "summary":"This session is the first major synthesis point in the workshop \u2014 the moment when all three prior streams of self-discovery (purpose, DISC, LSA) flow together into a single, integrated portrait of each participant's leadership profile. The ",
+      "blockCount":12
+    },
+    {
+      "id":"ch5",
+      "title":"The Architecture of a Flourishing Leader: The Five Core Values",
+      "summary":"If the first four sessions were about understanding who you are, this session is about understanding what principles you will live by. The five Core Values \u2014 Accountability, Balance, Interdependence, Empowerment, and Leverage \u2014 are not a mo",
+      "blockCount":12
+    },
+    {
+      "id":"ch6",
+      "title":"Telling Yourself the Truth: Accountability, Balance, and the Battle Against Busyness",
+      "summary":"Two of the five Core Values hit closest to home for ministry leaders \u2014 and closest to the sources of breakdown. Accountability and Balance are the Core Values that most directly address the interior life of the leader: not what they do, but",
+      "blockCount":11
+    },
+    {
+      "id":"ch7",
+      "title":"No Lone Rangers: Interdependence, Empowerment, and the Art of Building Others",
+      "summary":"One of the most persistent pathologies in ministry leadership is the solo hero \u2014 the leader who believes that if something is going to be done right, they must do it themselves. This session confronts that pathology through two Core Values ",
+      "blockCount":12
+    },
+    {
+      "id":"ch8",
+      "title":"The Mustard Seed Principle: Leverage, Breakthrough, and the Anatomy of Deep Change",
+      "summary":"The fifth and final Core Value is Leverage \u2014 the most strategically sophisticated of the five, and the one that makes Breakthrough possible. DVULI defines Leverage as 'the process by which seemingly small actions produce big results,' groun",
+      "blockCount":12
+    },
+    {
+      "id":"ch9",
+      "title":"What Does It Take to Grow Up Healthy? The 40 Developmental Assets",
+      "summary":"The workshop now pivots outward \u2014 from the leader's interior life to the young people and communities they serve. This pivot is not a departure from the self-development work of Sessions 1\u20138; it is its destination. DVULI's conviction is tha",
+      "blockCount":12
+    },
+    {
+      "id":"ch10",
+      "title":"Community as Gift, Not Problem: Asset-Based Community Development",
+      "summary":"One of the most transformative shifts a ministry leader can make is from a needs-map to an assets-map \u2014 from seeing their community primarily as a collection of deficits that require external intervention to seeing it as a place rich with g",
+      "blockCount":12
+    },
+    {
+      "id":"ch11",
+      "title":"From Betterment to Development: Discipling Youth as Community Builders",
+      "summary":"This session is the culminating synthesis of the three-session Community Youth Development arc (Sessions 9\u201311). Having introduced the 40 Developmental Assets framework (Session 9) and the Asset-Based Community Development paradigm (Session ",
+      "blockCount":12
+    },
+    {
+      "id":"ch12",
+      "title":"Remembering the Future: Scenario Planning for Ministry in an Uncertain World",
+      "summary":"Integration Arc: Sessions 12\u201316. The first eight sessions of this course built the inner equipment of the ministry leader \u2014 self-awareness, values clarity, and the relational posture of an outward mindset. Sessions 9\u201311 turned that formatio",
+      "blockCount":12
+    },
+    {
+      "id":"ch13",
+      "title":"The Iceberg Below the Waterline: Systems Thinking and the Art of Seeing Whole",
+      "summary":"Every ministry leader has encountered the experience of solving a problem only to watch it reappear in a different form six months later. Or of implementing a strategy that seemed sound but produced unexpected \u2014 and damaging \u2014 consequences ",
+      "blockCount":12
+    },
+    {
+      "id":"ch14",
+      "title":"Heart at War, Heart at Peace: The Outward Mindset and the Leader Who Sees People",
+      "summary":"Of all the insights embedded in the DVULI curriculum, this one may be the most personally confronting: the greatest systemic problem in most ministry organizations is not structural or strategic \u2014 it is the degree to which leaders and team ",
+      "blockCount":12
+    },
+    {
+      "id":"ch15",
+      "title":"Finding Your People: Resource Networking and the Power of Your Cause",
+      "summary":"One of the most paralyzing misconceptions in ministry is the belief that resource development means fundraising \u2014 asking people for money they do not want to give for a cause they do not fully understand. This session systematically dismant",
+      "blockCount":10
+    },
+    {
+      "id":"ch16",
+      "title":"Accelerating Change: Your Breakthrough Plan and the Beginning of What Comes Next",
+      "summary":"This final session is not a conclusion \u2014 it is a launch. Everything that has come before in fifteen sessions of self-discovery, community engagement, strategic planning, systems analysis, mindset transformation, and resource networking has ",
+      "blockCount":13
+    }
+  ]
+}
