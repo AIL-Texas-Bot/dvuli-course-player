@@ -24,8 +24,6 @@ dist-ssr
 *.sw?
 
 # Large media assets — host separately (CDN / Netlify Large Media)
-# Audio files are 98MB total — too large for standard GitHub
-public/audio/
 # DVULI workbook PDFs/PPTs are 163MB — too large for GitHub
 public/DVULI/
 # Monolithic course.json (23MB) is superseded by per-section files in public/sections/
