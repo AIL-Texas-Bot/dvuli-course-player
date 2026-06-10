@@ -117,6 +117,10 @@ export default function NarrativeBlock({ block, widgets = [] }) {
 
   const cleanedHtml = useMemo(() => cleanHtmlContent(block.html), [block.html])
 
+  const widgetsKey = useMemo(() => {
+    return (widgets || []).map(w => w.id).join(',')
+  }, [widgets])
+
   useEffect(() => {
     if (!containerRef.current || !widgets || widgets.length === 0) {
       setMountedWidgets([])
@@ -141,7 +145,7 @@ export default function NarrativeBlock({ block, widgets = [] }) {
     })
 
     setMountedWidgets(targets)
-  }, [cleanedHtml, widgets])
+  }, [cleanedHtml, widgetsKey])
 
   if (block.html) {
     return (
